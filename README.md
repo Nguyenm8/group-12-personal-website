@@ -2,6 +2,8 @@
 
 Welcome to Group-12's Public Repo Homepage!
 
+Public Website URL: https://nguyenm8.github.io/group-12-personal-website/
+
 ### Table of Contents
 
 1. [Product Description](#product-description)
