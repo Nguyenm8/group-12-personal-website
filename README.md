@@ -2,7 +2,7 @@
 
 Welcome to Group-12's Public Repo Homepage!
 
-Public Website URL: https://nguyenm8.github.io/group-12-personal-website/
+Public Website URL: [https://nguyenm8.github.io/group-12-personal-website/](https://nguyenm8.github.io/group-12-personal-website/)
 
 ### Table of Contents
 
@@ -30,9 +30,9 @@ Turtle Up Tracking is a mobile app built with React Native and Firebase. It enab
 
 ## Project Links:
 
-- Frontend Repo: https://github.com/thecalebmoody/turtle-up-tracking-frontend/tree/develop
-- Backend Repo: https://github.com/thecalebmoody/turtle-up-tracking-backend
-- Team 12's Trello Board: https://trello.com/b/8H3GfL1d/turtle-up-tracking-app-android
+- Frontend Repo: [https://github.com/thecalebmoody/turtle-up-tracking-frontend](https://github.com/thecalebmoody/turtle-up-tracking-frontend)
+- Backend Repo: [https://github.com/thecalebmoody/turtle-up-tracking-backend](https://github.com/thecalebmoody/turtle-up-tracking-backend)
+- Team 12's Trello Board: [https://trello.com/b/8H3GfL1d/turtle-up-tracking-app-android](https://trello.com/b/8H3GfL1d/turtle-up-tracking-app-android)
 
 ## Sponsor Information
 
