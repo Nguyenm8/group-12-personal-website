@@ -36,17 +36,17 @@ Turtle Up Tracking is a mobile app built with React Native and Firebase. It enab
 
 ## Sponsor Information
 
-- **Sponsor**: **Corinne Brion** - cbrion1@udayton.edu, admin@turtleup.org, (541)-531-3770
-- **Website**: https://turtleup.org
+- **Sponsor**: **Corinne Brion** - [cbrion1@udayton.edu](mailto:cbrion1@udayton.edu), [admin@turtleup.org](mailto:admin@turtleup.org), (541)-531-3770
+- **Website**: [https://turtleup.org](https://turtleup.org)
 
 Turtle Up is a nonprofit organization with 501c3 status. Through innovative educational programs, eco-trips, advocacy, and collaboration, the primary purpose of Turtle Up is to protect the well-being of sea turtles and their habitats.
 
 ## Team Members
 
-- **Caleb Moody** (Team Lead) - moodyc4@udayton.edu
-- **Zach Rice** (Full Stack Developer) - ricez1@udayton.edu
-- **Iman Motlagh** (Full Stack Developer) - motlaghi1@udayton.edu
-- **Michael Nguyen** (Full Stack Developer) - nguyenm8@udayton.edu
+- **Caleb Moody** (Team Lead) - [moody.caleb@gmail.com](mailto:moody.caleb@gmail.com)
+- **Zach Rice** (Full Stack Developer) - [ricez1@udayton.edu](mailto:ricez1@udayton.edu)
+- **Iman Motlagh** (Full Stack Developer) - [motlaghi1@udayton.edu](mailto:motlaghi1@udayton.edu)
+- **Michael Nguyen** (Full Stack Developer) - [nguyenm8@udayton.edu](mailto:nguyenm8@udayton.edu)
 
 ## Technology Stack and Architecture
 
