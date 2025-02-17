@@ -48,6 +48,8 @@ Turtle Up is a nonprofit organization with 501c3 status. Through innovative educ
 - **Iman Motlagh** (Full Stack Developer) - [motlaghi1@udayton.edu](mailto:motlaghi1@udayton.edu)
 - **Michael Nguyen** (Full Stack Developer) - [nguyenm8@udayton.edu](mailto:nguyenm8@udayton.edu)
 
+---
+
 ## Technology Stack and Architecture
 
 ### Frontend:
