@@ -1,0 +1,15 @@
+title: Group 12 - Turtle Up
+description: >-
+  Capstone project for CPS 491 at the University of Dayton
+baseurl: "" # Leave this empty if deploying on GitHub Pages without a subpath
+url: "https://github.com/UD-CPS491-25S/group-12-website # Replace with your GitHub Pages URL
+
+# remote_theme: pages-themes/dinky@v0.2.0
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# Optional - Custom navigation links
+show_downloads: false
+github:
+  is_project_page: false
